@@ -8,6 +8,7 @@ public class SpringContactManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringContactManagementApplication.class, args);
+		System.out.println("praveen");
 	}
 
 }
